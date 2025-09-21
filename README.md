@@ -1,6 +1,6 @@
 # 🎨 AI Image Colorizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://landscapecolorizer.streamlit.app/)
 
 Transform your grayscale images into vibrant colorful images using advanced AI technology! This app uses a trained Generative Adversarial Network (GAN) to intelligently add realistic colors to black and white photos.
 
@@ -35,7 +35,7 @@ Try the app live: **[AI Image Colorizer](https://landscapecolorizer.streamlit.ap
 
 | Original Grayscale | AI Colorized |
 |-------------------|--------------|
-| ![Grayscale](https://via.placeholder.com/300x200/808080/FFFFFF?text=Grayscale+Input) | ![Colorized](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=AI+Colorized) |
+| ![Grayscale](black&white.jpg) | ![Colorized](colorized_image.png) |
 
 ## 🛠️ Technology Stack
 
