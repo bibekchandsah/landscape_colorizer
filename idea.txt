@@ -1,0 +1,16 @@
+can you step by step process for making the model for training gan model which i will input gray scale image and it will give me colorful image and i should also be able to train the same model again with another dataset and i can use the trianed model anywhere for generating color ful image
+
+can you step by step process for making the model for training gan model which i will input gray scale image and it will give me colorful image and i should also be able to train the same model again with another dataset and i can use the trianed model anywhere for generating color ful image
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bibekchandsah/landscape_colorizer.git
+git push -u origin main
+
+
+git remote add origin https://github.com/bibekchandsah/landscape_colorizer.git
+git branch -M main
+git push -u origin main

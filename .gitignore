@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model files (if not using Git LFS)
+# *.keras
+# *.h5
+# *.tflite
+
+# Data
+*.zip
+*.tar.gz
+dataset/
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+
+
+.streamlit
+.vscode
+landscape images dataset
+archive.zip
+archive_3.zip
+archive_4.zip
+Black_&_White_to_color_using_GAN.ipynb
+landscape_colorization_checkpoint_discriminator.weights.h5
+landscape_colorization_checkpoint_generator.weights.h5
+landscape_colorization_gan_generator.keras
